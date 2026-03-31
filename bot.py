@@ -2,8 +2,8 @@ import telebot
 import json
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, InputMediaPhoto
 
-TOKEN = "8687497631:AAE4niCmKtkhPsAy44zn04-bZOjJYg94Kd4"
-ADMIN_ID = 5888788582
+TOKEN = "8646122873:AAEWA9nISI4WO9W6NIPLDkJ1H5PEjS43UW8"
+ADMIN_ID = 940631725
 
 bot = telebot.TeleBot(TOKEN)
 
